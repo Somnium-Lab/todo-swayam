@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "570862021656",
+    "project_id": "todo-clean-arch",
+    "storage_bucket": "todo-clean-arch.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:570862021656:android:112a15502e06b74fc8a76d",
+        "android_client_info": {
+          "package_name": "com.example.flutter_todo_clean_arch"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "570862021656-vgnh83ar09o8htj0ipjjm3ftnevk5b2u.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAuh9IOzi3YSvgotewQsYc6EBxXNeb4bAE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "570862021656-vgnh83ar09o8htj0ipjjm3ftnevk5b2u.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
